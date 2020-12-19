@@ -3,4 +3,4 @@ Projeto de requisição de uma Api de Cripto Moedas
 
 * Codigo feito com JavaScript 
 * Estilização com a framework BootStrap
-* Pagina Html simples
+* Pagina HTML
